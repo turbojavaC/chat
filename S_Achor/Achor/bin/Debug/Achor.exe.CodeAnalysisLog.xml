@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="c:\program files (x86)\microsoft visual studio 10.0\team tools\static analysis tools\fxcop\Xml\CodeAnalysisReport.xsl"?>
+<FxCopReport Version="10.0">
+ <Targets>
+  <Target Name="D:\ETUDE\Mes_projets\POO\CSharp\S_Achor\Achor\bin\Debug\Achor.exe">
+   <Modules>
+    <Module Name="achor.exe">
+     <Namespaces>
+      <Namespace Name="Achor">
+       <Types>
+        <Type Name="Achor" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#InitializeComponent()" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="DoNotIndirectlyExposeMethodsWithLinkDemands" Category="Microsoft.Security" CheckId="CA2122" Status="Active" Created="2017-05-10 08:03:01Z" FixCategory="NonBreaking">
+             <Issue Certainty="33" Level="CriticalError" Path="D:\ETUDE\Mes_projets\POO\CSharp\S_Achor\Achor" File="Chat live.Designer.cs" Line="30">'Achor.InitializeComponent()' est appelé dans 'FileSystemWatcher.EnableRaisingEvents.set(bool)' qui contient un LinkDemand. En effectuant cet appel, 'FileSystemWatcher.EnableRaisingEvents.set(bool)' s'expose indirectement au code utilisateur. Passez en revue le parcours de pile suivant susceptible de constituer un moyen de contourner les mesures de protection et de sécurité : &#xD;&#xA;   -&gt;'Achor.InitializeComponent()'&#xD;&#xA;   -&gt;'Achor.InitializeComponent()'&#xD;&#xA;   -&gt;'Achor.Achor()'</Issue>
+             <Issue Certainty="33" Level="CriticalError" Path="D:\ETUDE\Mes_projets\POO\CSharp\S_Achor\Achor" File="Chat live.Designer.cs" Line="30">'Achor.InitializeComponent()' est appelé dans 'FileSystemWatcher.SynchronizingObject.set(ISynchronizeInvoke)' qui contient un LinkDemand. En effectuant cet appel, 'FileSystemWatcher.SynchronizingObject.set(ISynchronizeInvoke)' s'expose indirectement au code utilisateur. Passez en revue le parcours de pile suivant susceptible de constituer un moyen de contourner les mesures de protection et de sécurité : &#xD;&#xA;   -&gt;'Achor.InitializeComponent()'&#xD;&#xA;   -&gt;'Achor.InitializeComponent()'&#xD;&#xA;   -&gt;'Achor.Achor()'</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+     </Namespaces>
+    </Module>
+   </Modules>
+  </Target>
+ </Targets>
+ <Rules>
+  <Rule TypeName="DoNotIndirectlyExposeMethodsWithLinkDemands" Category="Microsoft.Security" CheckId="CA2122">
+   <Name>N'exposez pas indirectement des méthodes avec des demandes de liaison</Name>
+   <Description>N'incluez pas dans un wrapper une méthode protégée par un LinkDemand avec une méthode n'effectuant aucune vérification de sécurité. Un LinkDemand vérifie les autorisations de l'appelant immédiat mais pas celles de tous les appelants dans le parcours de la pile. Dans ce cas, les autorisations de la méthode de wrapper seront vérifiées. Si la méthode de wrapper ne vérifie pas elle-même les autorisations des appelants plus hauts dans le parcours de la pile, un code malveillant peut exécuter la fonction incluse dans un wrapper, même s'il ne dispose pas des autorisations pour le faire.</Description>
+   <Resolution Name="Default">{0} est appelé dans {1} qui contient un LinkDemand. En effectuant cet appel, {1} s'expose indirectement au code utilisateur. Passez en revue le parcours de pile suivant susceptible de constituer un moyen de contourner les mesures de protection et de sécurité : {2}</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182303(VS.100).aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="33">CriticalError</MessageLevel>
+   <File Name="securityrules.dll" Version="10.0.0.0" />
+  </Rule>
+ </Rules>
+ <Localized>
+  <String Key="Category">Catégorie</String>
+  <String Key="Certainty">Certitude</String>
+  <String Key="CollapseAll">Réduire tout</String>
+  <String Key="CheckId">ID de contrôle</String>
+  <String Key="Error">Erreur</String>
+  <String Key="Errors">erreur(s)</String>
+  <String Key="ExpandAll">Développer tout</String>
+  <String Key="Help">Aide</String>
+  <String Key="Line">Ligne</String>
+  <String Key="Messages">message(s)</String>
+  <String Key="LocationNotStoredInPdb">[Emplacement non stocké dans le fichier Pdb]</String>
+  <String Key="Project">Projet</String>
+  <String Key="Resolution">Résolution</String>
+  <String Key="Rule">Règle</String>
+  <String Key="RuleFile">Fichier de règles</String>
+  <String Key="RuleDescription">Description de la règle</String>
+  <String Key="Source">Source</String>
+  <String Key="Status">État</String>
+  <String Key="Target">Cible</String>
+  <String Key="Warning">Avertissement</String>
+  <String Key="Warnings">avertissement(s)</String>
+  <String Key="ReportTitle">Rapport d'analyse du code</String>
+ </Localized>
+</FxCopReport>

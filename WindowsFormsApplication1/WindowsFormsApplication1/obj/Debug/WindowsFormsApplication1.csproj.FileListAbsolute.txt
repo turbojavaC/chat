@@ -1,0 +1,2 @@
+D:\TP visual\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+\\UPH_PARK7-PC\Users\Public\TP visual\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config

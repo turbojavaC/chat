@@ -1,0 +1,7 @@
+D:\Mes_projets\POO\CSharp\S_Achor\Achor\bin\Debug\Achor.exe
+D:\Mes_projets\POO\CSharp\S_Achor\Achor\bin\Debug\Achor.pdb
+D:\Mes_projets\POO\CSharp\S_Achor\Achor\obj\x86\Debug\Achor.Achor.resources
+D:\Mes_projets\POO\CSharp\S_Achor\Achor\obj\x86\Debug\Achor.Properties.Resources.resources
+D:\Mes_projets\POO\CSharp\S_Achor\Achor\obj\x86\Debug\Achor.csproj.GenerateResource.Cache
+D:\Mes_projets\POO\CSharp\S_Achor\Achor\obj\x86\Debug\Achor.exe
+D:\Mes_projets\POO\CSharp\S_Achor\Achor\obj\x86\Debug\Achor.pdb

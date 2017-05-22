@@ -1,0 +1,17 @@
+\\UPH_PARK7-PC\Users\Public\TP visual\S_Achor\Achor\bin\Release\Achor.exe
+\\UPH_PARK7-PC\Users\Public\TP visual\S_Achor\Achor\bin\Release\Achor.pdb
+\\UPH_PARK7-PC\Users\Public\TP visual\S_Achor\Achor\obj\x86\Release\ResolveAssemblyReference.cache
+\\UPH_PARK7-PC\Users\Public\TP visual\S_Achor\Achor\obj\x86\Release\Achor.Achor.resources
+\\UPH_PARK7-PC\Users\Public\TP visual\S_Achor\Achor\obj\x86\Release\Achor.Properties.Resources.resources
+\\UPH_PARK7-PC\Users\Public\TP visual\S_Achor\Achor\obj\x86\Release\GenerateResource.read.1.tlog
+\\UPH_PARK7-PC\Users\Public\TP visual\S_Achor\Achor\obj\x86\Release\GenerateResource.write.1.tlog
+\\UPH_PARK7-PC\Users\Public\TP visual\S_Achor\Achor\obj\x86\Release\Achor.exe
+\\UPH_PARK7-PC\Users\Public\TP visual\S_Achor\Achor\obj\x86\Release\Achor.pdb
+C:\Users\Zoelisoa\Desktop\Miaro Nil Adaweh\S_Achor\Achor\obj\x86\Release\Achor.exe
+C:\Users\Zoelisoa\Desktop\Miaro Nil Adaweh\S_Achor\Achor\obj\x86\Release\Achor.pdb
+C:\Users\Zoelisoa\Desktop\Miaro Nil Adaweh\S_Achor\Achor\bin\Release\Achor.exe
+C:\Users\Zoelisoa\Desktop\Miaro Nil Adaweh\S_Achor\Achor\bin\Release\Achor.pdb
+C:\Users\Zoelisoa\Desktop\Miaro Nil Adaweh\S_Achor\Achor\obj\x86\Release\Chat live.csprojResolveAssemblyReference.cache
+C:\Users\Zoelisoa\Desktop\Miaro Nil Adaweh\S_Achor\Achor\obj\x86\Release\Achor.Achor.resources
+C:\Users\Zoelisoa\Desktop\Miaro Nil Adaweh\S_Achor\Achor\obj\x86\Release\Achor.Properties.Resources.resources
+C:\Users\Zoelisoa\Desktop\Miaro Nil Adaweh\S_Achor\Achor\obj\x86\Release\Chat live.csproj.GenerateResource.Cache

@@ -1,0 +1,42 @@
+D:\Mes_projets\POO\CSharp\S_Achor\Achor\bin\Debug\Achor.exe
+D:\Mes_projets\POO\CSharp\S_Achor\Achor\bin\Debug\Achor.pdb
+D:\Mes_projets\POO\CSharp\S_Achor\Achor\obj\x86\Debug\Achor.Achor.resources
+D:\Mes_projets\POO\CSharp\S_Achor\Achor\obj\x86\Debug\Achor.Properties.Resources.resources
+D:\Mes_projets\POO\CSharp\S_Achor\Achor\obj\x86\Debug\Chat live.csproj.GenerateResource.Cache
+D:\Mes_projets\POO\CSharp\S_Achor\Achor\obj\x86\Debug\Achor.exe
+D:\Mes_projets\POO\CSharp\S_Achor\Achor\obj\x86\Debug\Achor.pdb
+D:\Mes_projets\POO\CSharp\S_Achor\Achor\obj\x86\Debug\Chat live.csprojResolveAssemblyReference.cache
+D:\ETUDE\Mes_projets\POO\CSharp\S_Achor\Achor\obj\x86\Debug\Achor.exe
+D:\ETUDE\Mes_projets\POO\CSharp\S_Achor\Achor\obj\x86\Debug\Achor.pdb
+D:\ETUDE\Mes_projets\POO\CSharp\S_Achor\Achor\bin\Debug\Achor.exe
+D:\ETUDE\Mes_projets\POO\CSharp\S_Achor\Achor\bin\Debug\Achor.pdb
+D:\ETUDE\Mes_projets\POO\CSharp\S_Achor\Achor\obj\x86\Debug\Achor.Achor.resources
+D:\ETUDE\Mes_projets\POO\CSharp\S_Achor\Achor\obj\x86\Debug\Achor.Properties.Resources.resources
+D:\ETUDE\Mes_projets\POO\CSharp\S_Achor\Achor\obj\x86\Debug\Chat live.csproj.GenerateResource.Cache
+D:\ETUDE\Mes_projets\POO\CSharp\S_Achor\Achor\bin\Debug\Achor.exe.CodeAnalysisLog.xml
+D:\ETUDE\Mes_projets\POO\CSharp\S_Achor\Achor\bin\Debug\Achor.exe.lastcodeanalysissucceeded
+C:\Users\Erichael Wayne MFE\Desktop\S_Achor\Achor\obj\x86\Debug\Achor.exe
+C:\Users\Erichael Wayne MFE\Desktop\S_Achor\Achor\obj\x86\Debug\Achor.pdb
+C:\Users\Erichael Wayne MFE\Desktop\S_Achor\Achor\bin\Debug\Achor.exe
+C:\Users\Erichael Wayne MFE\Desktop\S_Achor\Achor\bin\Debug\Achor.pdb
+C:\Users\Erichael Wayne MFE\Desktop\S_Achor\Achor\obj\x86\Debug\Chat live.csprojResolveAssemblyReference.cache
+C:\Users\Erichael Wayne MFE\Desktop\S_Achor\Achor\obj\x86\Debug\Achor.Achor.resources
+C:\Users\Erichael Wayne MFE\Desktop\S_Achor\Achor\obj\x86\Debug\Achor.Properties.Resources.resources
+C:\Users\Erichael Wayne MFE\Desktop\S_Achor\Achor\obj\x86\Debug\Chat live.csproj.GenerateResource.Cache
+D:\TP visual\S_Achor\Achor\obj\x86\Debug\Achor.exe
+D:\TP visual\S_Achor\Achor\obj\x86\Debug\Achor.pdb
+D:\TP visual\S_Achor\Achor\bin\Debug\Achor.exe
+D:\TP visual\S_Achor\Achor\bin\Debug\Achor.pdb
+D:\TP visual\S_Achor\Achor\obj\x86\Debug\Chat live.csprojResolveAssemblyReference.cache
+D:\TP visual\S_Achor\Achor\obj\x86\Debug\Achor.Achor.resources
+D:\TP visual\S_Achor\Achor\obj\x86\Debug\Achor.Properties.Resources.resources
+D:\TP visual\S_Achor\Achor\obj\x86\Debug\Chat live.csproj.GenerateResource.Cache
+\\UPH_PARK7-PC\Users\Public\TP visual\S_Achor\Achor\obj\x86\Debug\Achor.exe
+\\UPH_PARK7-PC\Users\Public\TP visual\S_Achor\Achor\obj\x86\Debug\Achor.pdb
+\\UPH_PARK7-PC\Users\Public\TP visual\S_Achor\Achor\bin\Debug\Achor.exe
+\\UPH_PARK7-PC\Users\Public\TP visual\S_Achor\Achor\bin\Debug\Achor.pdb
+\\UPH_PARK7-PC\Users\Public\TP visual\S_Achor\Achor\obj\x86\Debug\ResolveAssemblyReference.cache
+\\UPH_PARK7-PC\Users\Public\TP visual\S_Achor\Achor\obj\x86\Debug\Achor.Achor.resources
+\\UPH_PARK7-PC\Users\Public\TP visual\S_Achor\Achor\obj\x86\Debug\Achor.Properties.Resources.resources
+\\UPH_PARK7-PC\Users\Public\TP visual\S_Achor\Achor\obj\x86\Debug\GenerateResource.read.1.tlog
+\\UPH_PARK7-PC\Users\Public\TP visual\S_Achor\Achor\obj\x86\Debug\GenerateResource.write.1.tlog
